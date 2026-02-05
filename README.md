@@ -41,7 +41,7 @@ HTML5 (100% Pure HTML)
 
 🧩 Projects Included
 
-🎥 Multimedia Blog	Audio, video, image tags & text formatting	View
+🎥 Multimedia Blog
 
 📄 Life & Skills Portfolio	
 
